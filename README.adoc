@@ -40,7 +40,6 @@ endif::[]
 // Erklärung und Link auf Website
 ifdef::env-github[]
 
-Das aktuelle Datenmodell ist unter https://ch-sz-geo.github.io/A000/ erreichbar.
+Das aktuelle Datenmodell ist unter https://ch-sz-geo.github.io/A000_entrypage/ erreichbar.
 
-Hier erhalte ich das Pdf https://raw.github.com/ch-sz-geo.github.io/A000/gh-pages/ebook.pdf
 endif::[]
