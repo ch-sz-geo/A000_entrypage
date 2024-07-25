@@ -5,7 +5,7 @@ INTERLIS 2.3;
 !!@ technicalContact    = "mailto:geoportal@sz.ch";
 !!@ furtherInformation  = "https://www.sz.ch";
 !!@ Themennummer        = "A026";
-!!@ iliCompilerVersion  = "ili2c-5.5.1-d1f953308567ccfe0f3b545d33d6f4db0cc25297";
+!!@ iliCompilerVersion  = "ili2c-5.5.3-6c54f443006d3ca72d3e5a2392e7d5a2f75b6e8b";
 !!------------------------------------------------------------------------------
 !! Todo: - - -
 !!------------------------------------------------------------------------------
