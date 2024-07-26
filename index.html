@@ -44,9 +44,12 @@
         links["links"].forEach(function (link){
           var liElement = document.createElement("li");
           var aElement = document.createElement("a");
+	  var pElement = document.createElement("p");
           aElement.textContent=link.text;
           aElement.href=link.url;
-          liElement.appendChild(link.nr + ": " + aElement);
+	  pElement.textContent=link.nr + ": "
+          pElement.appendChild(aElement)	
+          liElement.appendChild(pElement);
           ulElement.appendChild(liElement);
         });
       }
