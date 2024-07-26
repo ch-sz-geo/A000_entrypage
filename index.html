@@ -44,7 +44,7 @@
         links["links"].forEach(function (link){
           var liElement = document.createElement("li");
           var aElement = document.createElement("a");
-          aElement.textContent=link.text;
+          aElement.textContent=link.nr + " " + link.text;
           aElement.href=link.url;
           liElement.appendChild(aElement);
           ulElement.appendChild(liElement);
