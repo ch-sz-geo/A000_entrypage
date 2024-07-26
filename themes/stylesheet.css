@@ -64,6 +64,10 @@ ul.sectlevel0 > li > a {
 	height: 0px;
 }
 
+li {
+	padding-top: 4px;
+}
+
 li a {
 	font-family: 'trade gothic', sans-serif;
 	font-size: 14pt;
