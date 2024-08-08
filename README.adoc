@@ -28,7 +28,7 @@ ifndef::env-github[]
 image:{includedir}/img/logo_kt_sz_rgb.jpg[]
 endif::[]
 
-= Modelldokumentation Uebersicht
+= Modelldokumentation Übersicht
 [.subtitle]#Zusammenfassung aller Modelle# +
 
 // Die Verwiese auf die Inhalte der Dokumentation sollen im README auf Github nicht angezeigt werden.
