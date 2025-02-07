@@ -3,6 +3,7 @@ renderJSON({"links":[
     ,{"nr": "A057", "text":"Waldfeststellungen", "url": "https://ch-sz-geo.github.io/A057"}
     ,{"nr": "A064", "text":"forstliche Planung; Bereich Waldfunktion (Schutzwald)", "url": "https://ch-sz-geo.github.io/A064"}
     ,{"nr": "A084", "text":"Richtplan, kantonal", "url": "https://ch-sz-geo.github.io/A084"}
+    ,{"nr": "A117", "text":"Waldreservate", "url": "https://ch-sz-geo.github.io/A117"}
     ,{"nr": "A144", "text":"geologische Berichte des Bereichs 'Umwelt'", "url": "https://ch-sz-geo.github.io/A144"}
     ,{"nr": "A163", "text":"Planung der Revitalisierung von Seeufern", "url": "https://ch-sz-geo.github.io/A163"}
     ,{"nr": "A188", "text":"Rodungen und Rodungsersatz", "url": "https://ch-sz-geo.github.io/A188"}
