@@ -2,6 +2,7 @@ renderJSON({"links":[
      {"nr": "A026", "text":"Ökomorphologie der Fliessgewässer", "url": "https://ch-sz-geo.github.io/A026"}
     ,{"nr": "A057", "text":"Waldfeststellungen", "url": "https://ch-sz-geo.github.io/A057"}
     ,{"nr": "A064", "text":"forstliche Planung; Bereich Waldfunktion (Schutzwald)", "url": "https://ch-sz-geo.github.io/A064"}
+    ,{"nr": "A074", "text":"Überwachungsinventar Naturgefahren", "url": "https://ch-sz-geo.github.io/A074"}
     ,{"nr": "A084", "text":"Richtplan, kantonal", "url": "https://ch-sz-geo.github.io/A084"}
     ,{"nr": "A117", "text":"Waldreservate", "url": "https://ch-sz-geo.github.io/A117"}
     ,{"nr": "A144", "text":"geologische Berichte des Bereichs 'Umwelt'", "url": "https://ch-sz-geo.github.io/A144"}
