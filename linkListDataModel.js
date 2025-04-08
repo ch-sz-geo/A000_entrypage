@@ -11,4 +11,5 @@ renderJSON({"links":[
     ,{"nr": "A241", "text":"Verfahren Waldrecht", "url": "https://ch-sz-geo.github.io/A241"}
     ,{"nr": "A244", "text":"Bohrdaten des Bereichs 'Umwelt'", "url": "https://ch-sz-geo.github.io/A244"}
     ,{"nr": "A246", "text":"Gebietseinteilung Forst", "url": "https://ch-sz-geo.github.io/A246"}
+    ,{"nr": "A248", "text":"Messstellen Hydrometrie", "url": "https://ch-sz-geo.github.io/A248"}
 ]});
