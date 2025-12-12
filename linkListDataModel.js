@@ -1,5 +1,6 @@
 renderJSON({"links":[
      {"nr": "A026", "text":"Ökomorphologie der Fliessgewässer", "url": "https://ch-sz-geo.github.io/A026"}
+    ,{"nr": "A027", "text":"Grundwasservorkommen", "url": "https://ch-sz-geo.github.io/A027"}
     ,{"nr": "A057", "text":"Waldfeststellungen", "url": "https://ch-sz-geo.github.io/A057"}
     ,{"nr": "A064", "text":"forstliche Planung; Bereich Waldfunktion (Schutzwald)", "url": "https://ch-sz-geo.github.io/A064"}
     ,{"nr": "A074", "text":"Überwachungsinventar Naturgefahren", "url": "https://ch-sz-geo.github.io/A074"}
