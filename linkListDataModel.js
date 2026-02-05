@@ -14,4 +14,5 @@ renderJSON({"links":[
     ,{"nr": "A244", "text":"Bohrdaten des Bereichs 'Umwelt'", "url": "https://ch-sz-geo.github.io/A244"}
     ,{"nr": "A246", "text":"Gebietseinteilung Forst", "url": "https://ch-sz-geo.github.io/A246"}
     ,{"nr": "A248", "text":"Messstellen Hydrometrie", "url": "https://ch-sz-geo.github.io/A248"}
+    ,{"nr": "A254", "text":"Grundwasseraustritte und -fassungen", "url": "https://ch-sz-geo.github.io/A254"}
 ]});
