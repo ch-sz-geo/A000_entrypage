@@ -1,19 +1,20 @@
 renderJSON({"links":[
-     {"nr": "A026", "text":"Ökomorphologie der Fliessgewässer", "url": "https://ch-sz-geo.github.io/A026"}
-    ,{"nr": "A027", "text":"Grundwasservorkommen", "url": "https://ch-sz-geo.github.io/A027"}
-    ,{"nr": "A057", "text":"Waldfeststellungen", "url": "https://ch-sz-geo.github.io/A057"}
-    ,{"nr": "A064", "text":"forstliche Planung; Bereich Waldfunktion (Schutzwald)", "url": "https://ch-sz-geo.github.io/A064"}
-    ,{"nr": "A074", "text":"Überwachungsinventar Naturgefahren", "url": "https://ch-sz-geo.github.io/A074"}
-    ,{"nr": "A084", "text":"Richtplan, kantonal", "url": "https://ch-sz-geo.github.io/A084"}
-    ,{"nr": "A101", "text":"Messstellen Wasserqualität (Gewässerüberwachung)", "url": "https://ch-sz-geo.github.io/A101"}
-    ,{"nr": "A117", "text":"Waldreservate", "url": "https://ch-sz-geo.github.io/A117"}
-    ,{"nr": "A144", "text":"geologische Berichte des Bereichs 'Umwelt'", "url": "https://ch-sz-geo.github.io/A144"}
-    ,{"nr": "A163", "text":"Planung der Revitalisierung von Seeufern", "url": "https://ch-sz-geo.github.io/A163"}
-    ,{"nr": "A188", "text":"Planung der Revitalisierung von Fliessgewässern", "url": "https://ch-sz-geo.github.io/A180"}
-    ,{"nr": "A188", "text":"Rodungen und Rodungsersatz", "url": "https://ch-sz-geo.github.io/A188"}
-    ,{"nr": "A241", "text":"Verfahren Waldrecht", "url": "https://ch-sz-geo.github.io/A241"}
-    ,{"nr": "A244", "text":"Bohrdaten des Bereichs 'Umwelt'", "url": "https://ch-sz-geo.github.io/A244"}
-    ,{"nr": "A246", "text":"Gebietseinteilung Forst", "url": "https://ch-sz-geo.github.io/A246"}
-    ,{"nr": "A248", "text":"Messstellen Hydrometrie", "url": "https://ch-sz-geo.github.io/A248"}
-    ,{"nr": "A254", "text":"Grundwasseraustritte und -fassungen", "url": "https://ch-sz-geo.github.io/A254"}
+     {"nr":"A026", "text":"Ökomorphologie der Fliessgewässer", "url":"https://ch-sz-geo.github.io/A026"}
+    ,{"nr":"A027", "text":"Grundwasservorkommen", "url":"https://ch-sz-geo.github.io/A027"}
+    ,{"nr":"A057", "text":"Waldfeststellungen", "url":"https://ch-sz-geo.github.io/A057"}
+    ,{"nr":"A064", "text":"forstliche Planung; Bereich Waldfunktion (Schutzwald)", "url":"https://ch-sz-geo.github.io/A064"}
+    ,{"nr":"A074", "text":"Überwachungsinventar Naturgefahren", "url":"https://ch-sz-geo.github.io/A074"}
+    ,{"nr":"A084", "text":"Richtplan, kantonal", "url":"https://ch-sz-geo.github.io/A084"}
+    ,{"nr":"A101", "text":"Messstellen Wasserqualität (Gewässerüberwachung)", "url":"https://ch-sz-geo.github.io/A101"}
+    ,{"nr":"A117", "text":"Waldreservate", "url":"https://ch-sz-geo.github.io/A117"}
+    ,{"nr":"A144", "text":"geologische Berichte des Bereichs 'Umwelt'", "url":"https://ch-sz-geo.github.io/A144"}
+    ,{"nr":"A163", "text":"Planung der Revitalisierung von Seeufern", "url":"https://ch-sz-geo.github.io/A163"}
+    ,{"nr":"A188", "text":"Planung der Revitalisierung von Fliessgewässern", "url":"https://ch-sz-geo.github.io/A180"}
+    ,{"nr":"A188", "text":"Rodungen und Rodungsersatz", "url":"https://ch-sz-geo.github.io/A188"}
+    ,{"nr":"A241", "text":"Verfahren Waldrecht", "url":"https://ch-sz-geo.github.io/A241"}
+    ,{"nr":"A244", "text":"Bohrdaten des Bereichs 'Umwelt'", "url":"https://ch-sz-geo.github.io/A244"}
+    ,{"nr":"A246", "text":"Gebietseinteilung Forst", "url":"https://ch-sz-geo.github.io/A246"}
+    ,{"nr":"A248", "text":"Messstellen Hydrometrie", "url":"https://ch-sz-geo.github.io/A248"}
+    ,{"nr":"A254", "text":"Grundwasseraustritte und -fassungen", "url":"https://ch-sz-geo.github.io/A254"}
+    ,{"nr":"A256", "text":"INTERLIS-Konfiguration", "url":"https://ch-sz-geo.github.io/A256"}
 ]});
