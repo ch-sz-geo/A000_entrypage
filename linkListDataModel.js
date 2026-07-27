@@ -15,6 +15,7 @@ renderJSON({"links":[
     ,{"nr":"A244", "text":"Bohrdaten des Bereichs 'Umwelt'", "url":"https://ch-sz-geo.github.io/A244"}
     ,{"nr":"A246", "text":"Gebietseinteilung Forst", "url":"https://ch-sz-geo.github.io/A246"}
     ,{"nr":"A248", "text":"Messstellen Hydrometrie", "url":"https://ch-sz-geo.github.io/A248"}
+    ,{"nr":"A250", "text":"Klimakarte", "url":"https://ch-sz-geo.github.io/A250"}
     ,{"nr":"A254", "text":"Grundwasseraustritte und -fassungen", "url":"https://ch-sz-geo.github.io/A254"}
     ,{"nr":"A256", "text":"INTERLIS-Konfiguration", "url":"https://ch-sz-geo.github.io/A256"}
 ]});
